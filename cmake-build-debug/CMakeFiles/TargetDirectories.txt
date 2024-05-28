@@ -1,0 +1,2 @@
+/Users/x-ly/Project/XChat_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/x-ly/Project/XChat_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
